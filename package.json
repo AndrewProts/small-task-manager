@@ -1,0 +1,14 @@
+{
+  "name": "ele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
